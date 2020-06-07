@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../Components/Navbar';
 
-export default function HomePage() {
+export default function ContactPage() {
     return (
         <main>
             <Navbar/>
