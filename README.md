@@ -7,7 +7,7 @@ This is a ready to use boilerplate which encorporates [electron](https://github.
 1. Clone the repo
 
 ```
-git clone https://github.com/RC-787/electron-react-bootstrap-boilerplate.git
+git clone https://github.com/RC-787/electron-react-bootstrap-boilerplate.git my-project
 ```
 
 2. Navigate to the newly created directory
